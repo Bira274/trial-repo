@@ -6,3 +6,4 @@ We will be using this for our online classes
 #### Adventure movies
 - Black Widow
 - Avatar
+- Dr Strange
